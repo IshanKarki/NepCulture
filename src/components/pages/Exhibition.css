@@ -91,6 +91,11 @@
     transform: scale(1.1);
   }
   
+  .exhibit__item__link:hover {
+    box-shadow: 0 7px 20px rgba(0, 0, 0, 0.596);
+  }
+
+
   .exhibit__item__info {
     padding: 20px 30px 30px;
   }
