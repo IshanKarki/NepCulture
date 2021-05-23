@@ -14,6 +14,7 @@ import Footer from './components/Footer';
 
 import SignUp from './components/pages/SignUp';
 import Exhibition from './components/pages/Exhibition';
+import Profile from './components/pages/Profile';
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
           <Route path='/blogs' component={Blogs} />
           <Route path='/sign-up' component={SignUp} />
           <Route path='/exhibition' component={Exhibition} />
+          <Route path='/profile' component={Profile} />
         </Switch>
         <Footer />
       </Router>
