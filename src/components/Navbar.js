@@ -40,27 +40,32 @@ function Navbar() {
                             <li className='nav-item'>
                                 <Link to='/' className='nav-links' onClick={closeMobileMenu}>
                                     Home
-                            </Link>
+                                </Link>
                             </li>
                             <li className='nav-item'>
                                 <Link to='/blogs' className='nav-links' onClick={closeMobileMenu}>
                                     Blogs
-                            </Link>
+                                </Link>
                             </li>
                             <li className='nav-item'>
                                 <Link to='/exhibition' className='nav-links' onClick={closeMobileMenu}>
                                     Exhibition
-                            </Link>
+                                </Link>
                             </li>
                             <li className='nav-item'>
                                 <Link to='/about' className='nav-links' onClick={closeMobileMenu}>
                                     About
-                            </Link>
+                                </Link>
                             </li>
                             <li className='nav-item'>
                                 <Link to='/profile' className='nav-links' onClick={closeMobileMenu}>
-                                    Profile
-                            </Link>
+                                    <i class="fas fa-user-circle" />
+                                </Link>
+                            </li>
+                            <li className='nav-item'>
+                                <Link to='/cart' className='nav-links' onClick={closeMobileMenu}>
+                                    <i class="fas fa-cart-plus" />
+                                </Link>
                             </li>
                         </ul>
                     </div>

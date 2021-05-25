@@ -1,6 +1,13 @@
 
-
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import "./Profile.css";
+import {
+  faYoutube,
+  faFacebook,
+  faTwitter,
+  faInstagram,
+  faLinkedin
+} from "@fortawesome/free-brands-svg-icons";
 
 const Profile = () => {
   return (
@@ -73,6 +80,29 @@ const Profile = () => {
             most notable works. He favored painting, but also practiced handicraft
             and metalwork. His final artwork was showcased in the Bhaktapur Khowpa Chwami Pucha.
           </p>
+        </div>
+      </div>
+      <div className='social'>
+        <h1>
+          Find me on
+        </h1>
+        <div className='media_profiles'>
+          <a href="https://www.youtube.com/channel/UCD2vZrEafNv9BYp1IJUMvjA/featured"
+            className="youtube social">
+            <FontAwesomeIcon icon={faYoutube} size="2x" />
+          </a>
+          <a href="https://www.facebook.com/jeevan.rajopadhyay"
+            className="facebook social">
+            <FontAwesomeIcon icon={faFacebook} size="2x" />
+          </a>
+          <a href="https://www.instagram.com/jeevanrajopadhyay/"
+            className="instagram social">
+            <FontAwesomeIcon icon={faInstagram} size="2x" />
+          </a>
+          <a href="https://www.linkedin.com/in/jeevan-rajopadhyay-a2785446?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOZGxZ95sQFGQra5XZVGQLQ%3D%3D"
+            className="linkedin social">
+            <FontAwesomeIcon icon={faLinkedin} size="2x" />
+          </a>
         </div>
       </div>
     </div>

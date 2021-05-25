@@ -13,7 +13,8 @@ function About() {
                         <b><big><big><big>"The</big><i> mission</i></big></big> of <big><big>NepCulture </big></big>is to
                         preserve the ancient arts and cultures,
                         antiques, Handicrafts, paintings, and embrace Nepali Cultures Arts
-                        social norms and values."</b> </p>
+                        social norms and values."</b>
+                    </p>
                     <div className='about_contents'>
                         <p>
                             We aim to preserve, collect, exhibit Nepali
