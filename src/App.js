@@ -17,7 +17,9 @@ import Exhibition from './components/pages/Exhibition';
 import Profile from './components/pages/Profile';
 import Itemdetail from './components/Itemdetail';
 import Blogdetail from './components/Blogdetail';
-import Cart from './components/pages/Cart';
+
+import ItemBuy from './components/ItemBuy';
+import Cart from './components/Cart';
 
 function App() {
   return (
@@ -33,7 +35,8 @@ function App() {
           <Route path='/profile' component={Profile} />
           <Route path='/item_detail' component={Itemdetail} />
           <Route path='/blog_detail' component={Blogdetail} />
-          <Route path='/cart' component={Cart} />
+          <Route path='/itembuy' component={ItemBuy} />
+          <Route path='/main-cart-section' component={Cart} />
         </Switch>
         <Footer />
       </Router>

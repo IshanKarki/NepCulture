@@ -63,7 +63,7 @@ function Navbar() {
                                 </Link>
                             </li>
                             <li className='nav-item'>
-                                <Link to='/cart' className='nav-links' onClick={closeMobileMenu}>
+                                <Link to='/main-cart-section' className='nav-links' onClick={closeMobileMenu}>
                                     <i class="fas fa-cart-plus" />
                                 </Link>
                             </li>

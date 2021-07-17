@@ -52,8 +52,12 @@ function Itemdetail() {
       </div>
 
       <div className='addtocart'>
-        <button className='cart_button'> Buy Now रु 7,999</button>
-        <button className='cart_button'> Add to Cart </button>
+        <Link to='itembuy'>
+          <button className='cart_button'> Buy Now रु 7,999</button>
+        </Link>
+        <Link to='main-cart-section'>
+          <button className='cart_button'> Add to Cart </button>
+        </Link>
       </div>
 
       {/* for artist */}

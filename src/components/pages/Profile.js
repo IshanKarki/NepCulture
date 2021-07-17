@@ -4,7 +4,6 @@ import "./Profile.css";
 import {
   faYoutube,
   faFacebook,
-  faTwitter,
   faInstagram,
   faLinkedin
 } from "@fortawesome/free-brands-svg-icons";
@@ -13,9 +12,9 @@ const Profile = () => {
   return (
     <div className="profile">
       <div className="details">
-        <div className="per_image">
+        <div className="perss_image">
           <img
-            src="images/jr.jpg"
+            src="https://www.mona.com.np/get-image/320/11080597_812161728874301_6862044761280076146_o_1619417088-resized320.jpg"
             alt='JR'
           />
         </div>

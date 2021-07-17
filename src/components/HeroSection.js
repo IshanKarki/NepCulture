@@ -18,7 +18,7 @@ function HeroSection() {
                 >
                     GET STARTED
                 </Button>
-                <Link to='/exhibition'>
+                {/* <Link to='/exhibition'>
                     <Button
                         className='btns'
                         buttonStyle='btn--primary'
@@ -27,7 +27,7 @@ function HeroSection() {
                     >
                         TAKE A TOUR <i class="fas fa-hand-point-down" />
                     </Button>
-                </Link>
+                </Link> */}
             </div>
         </div>
     );
