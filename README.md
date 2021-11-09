@@ -95,8 +95,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
+
 _
 
-The demo video was uploaded like this because I had this project in a previous laptop and the some info and files are missing from my current repository, so yeah this was made a while back._
+The demo video was uploaded like this because I had this project in a previous laptop and the some info and files are missing from my current repository, so yeah this was made a while back.
+_
 
 
