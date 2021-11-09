@@ -33,6 +33,9 @@ You will also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+
+
+
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
@@ -85,3 +88,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+the demo video was uploaded like this because I had this project in a previous laptop and the some info and files are missing from my current repository, so yeah this was made a while back.
+
+
