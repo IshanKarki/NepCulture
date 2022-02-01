@@ -1,13 +1,5 @@
 DEMO video:
-
-
-
-
-
-https://user-images.githubusercontent.com/44771554/137352855-5d532f17-c14b-4d7f-9d0d-03d4ecae7b2b.mp4
-
-
-
+Demo available soon!!
 
 
 
